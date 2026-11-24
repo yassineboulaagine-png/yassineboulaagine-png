@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**yassineboulaagine-png/yassineboulaagine-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Yassine Boulaagine</h1>
+<h3 align="center">Junior Full Stack Developer | Morocco 🇲🇦</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about building web applications and solving real-world problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Full Stack Development Graduate
+- 🌱 Currently improving my skills in React.js and Laravel
+- 💻 Interested in building modern web applications
+- 📍 Based in Casablanca, Morocco
+
+### 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** PHP, Laravel
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+Coming soon...
+
+### 📫 Connect With Me
+
+- GitHub: [@yassineboulaagine-png](https://github.com/yassineboulaagine-png)
