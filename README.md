@@ -1,31 +1,40 @@
 
 <h1 align="center">Hi 👋, I'm Yassine Boulaagine</h1>
-<h3 align="center">Junior Full Stack Developer | Morocco 🇲🇦</h3>
+<h3 align="center">Junior Full Stack Developer 🇲🇦</h3>
 
 <p align="center">
-  Passionate about building web applications and solving real-world problems.
+  Building modern web applications and learning through real-world projects.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Full Stack Development Graduate
-- 🌱 Currently improving my skills in React.js and Laravel
-- 💻 Interested in building modern web applications
-- 📍 Based in Casablanca, Morocco
+- 💻 Interested in Frontend and Backend Development
+- 🌱 Improving my skills in React.js and Laravel
+- 📍 Casablanca, Morocco
 
-### 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** PHP, Laravel
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,git,github,vscode" />
+</p>
 
-### 🚀 Featured Projects
+## 📊 GitHub Stats
 
-Coming soon...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassineboulaagine-png&show_icons=true&theme=tokyonight" />
+</p>
 
-### 📫 Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineboulaagine-png&layout=compact&theme=tokyonight" />
+</p>
 
-- GitHub: [@yassineboulaagine-png](https://github.com/yassineboulaagine-png)
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/yassineboulaagine-png">
+    GitHub
+  </a>
+</p>
